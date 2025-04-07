@@ -1,0 +1,4 @@
+base_dir="."
+
+[build.settings]
+params="/index.html"
